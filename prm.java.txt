@@ -1,7 +1,7 @@
 !DOCTYPE<html>
 <html>
 <head>
-<title>"welcome"</title>
+<title>"welcome to dyashin technology"</title>
 <body>
 <h1>"hii I am sannidhi"</h1>
 <h2>"how r u"</h2>
